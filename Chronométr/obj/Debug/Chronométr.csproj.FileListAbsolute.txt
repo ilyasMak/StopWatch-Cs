@@ -1,0 +1,11 @@
+C:\Users\pc\Desktop\INFO2\S3\Langage C# et ASP .NET\Langage C#\WindowsFormsApp1\Chronométr\bin\Debug\Chronométr.exe.config
+C:\Users\pc\Desktop\INFO2\S3\Langage C# et ASP .NET\Langage C#\WindowsFormsApp1\Chronométr\bin\Debug\Chronométr.exe
+C:\Users\pc\Desktop\INFO2\S3\Langage C# et ASP .NET\Langage C#\WindowsFormsApp1\Chronométr\bin\Debug\Chronométr.pdb
+C:\Users\pc\Desktop\INFO2\S3\Langage C# et ASP .NET\Langage C#\WindowsFormsApp1\Chronométr\obj\Debug\Chronométr.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\INFO2\S3\Langage C# et ASP .NET\Langage C#\WindowsFormsApp1\Chronométr\obj\Debug\Chronométr.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\INFO2\S3\Langage C# et ASP .NET\Langage C#\WindowsFormsApp1\Chronométr\obj\Debug\Chronométr.Form1.resources
+C:\Users\pc\Desktop\INFO2\S3\Langage C# et ASP .NET\Langage C#\WindowsFormsApp1\Chronométr\obj\Debug\Chronométr.Properties.Resources.resources
+C:\Users\pc\Desktop\INFO2\S3\Langage C# et ASP .NET\Langage C#\WindowsFormsApp1\Chronométr\obj\Debug\Chronométr.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\INFO2\S3\Langage C# et ASP .NET\Langage C#\WindowsFormsApp1\Chronométr\obj\Debug\Chronométr.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\INFO2\S3\Langage C# et ASP .NET\Langage C#\WindowsFormsApp1\Chronométr\obj\Debug\Chronométr.exe
+C:\Users\pc\Desktop\INFO2\S3\Langage C# et ASP .NET\Langage C#\WindowsFormsApp1\Chronométr\obj\Debug\Chronométr.pdb
